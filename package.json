@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh543-git/VIRUS11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh543-git/VIRUS11/issues"
+  },
+  "homepage": "https://github.com/harsh543-git/VIRUS11#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
